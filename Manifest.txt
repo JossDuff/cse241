@@ -1,0 +1,2 @@
+Main-class: alset
+Class-Path: ojdbc8.jar
